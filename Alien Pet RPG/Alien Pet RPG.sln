@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien Pet RPG.Plugins", "Alien Pet RPG.Plugins.csproj", "{12E37EA4-ABAC-365E-C13F-44A96BACAE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien Pet RPG", "Alien Pet RPG.csproj", "{4813FB74-0893-CFEE-2E65-38EDA7F94D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E37EA4-ABAC-365E-C13F-44A96BACAE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E37EA4-ABAC-365E-C13F-44A96BACAE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E37EA4-ABAC-365E-C13F-44A96BACAE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E37EA4-ABAC-365E-C13F-44A96BACAE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4813FB74-0893-CFEE-2E65-38EDA7F94D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813FB74-0893-CFEE-2E65-38EDA7F94D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813FB74-0893-CFEE-2E65-38EDA7F94D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813FB74-0893-CFEE-2E65-38EDA7F94D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
